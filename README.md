@@ -1,2 +1,1 @@
-# Internsavy_projects
-This project utilizes a classification technique to predict the likelihood of graduate admissions for Indian students. The dataset includes features such as GRE score, TOEFL score, university rating, SOP quality, LOR strength, and undergraduate GPA. By analyzing these factors, the model assigns probabilities for admission. The aim is to assist students in assessing their chances of admission to Indian universities.
+# Internsavy_project
